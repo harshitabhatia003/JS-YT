@@ -9,7 +9,6 @@ console.log(calculateCartPrice(200,400,500));
 val1 aur val2 mai phele ki 2 values jayege rest will go to num1 
 */
 
-
 const user={
     username:"harshita",
     price:200
